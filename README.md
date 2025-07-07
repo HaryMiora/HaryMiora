@@ -2,7 +2,7 @@
 <h1 align="center">Salut, moi c'est Miora 👋</h1>
 
 <p align="center">
-  🎯 Développeur web fullstack passionné <br/>
+  🎯 Développeuse web fullstack passionnée <br/>
 </p>
 
 ---
