@@ -25,25 +25,6 @@
 
 ---
 
-### 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miora1706&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miora1706&layout=compact&theme=radical" width="47%" />
-</p>
-
----
-
-### 📂 Projets récents
-
-| Projet | Description |
-|--------|-------------|
-| 🎵 **Clone Spotify Vue.js** | Application musicale responsive avec lecteur audio flottant |
-| 🧮 **Simplexe React** | Résolution graphique et par tableaux du Simplexe |
-| 🎫 **Helpdesk PWA** | Système intelligent de gestion de tickets (Remix + NestJS) |
-
----
-
 ### 📫 Me contacter
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/miora-raoeliarijaona-6776172ba/)
