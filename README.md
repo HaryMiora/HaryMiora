@@ -25,14 +25,6 @@
 
 ---
 
-### 📫 Me contacter
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/miora-raoeliarijaona-6776172ba/)
-- 📧 Email : raoeliarijaonamiora@gmail.com
-- 🌍 Portfolio (bientôt)
-
----
-
 <p align="center">
   Merci de visiter mon profil ❤️  
 </p>
