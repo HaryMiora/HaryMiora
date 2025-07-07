@@ -9,7 +9,7 @@
 
 ### 💡 À propos de moi
 
-- 🌱 J'apprends constamment des frameworks modernes et les bonnes pratiques
+ J'apprends constamment des frameworks modernes et les bonnes pratiques
 
 ---
 
