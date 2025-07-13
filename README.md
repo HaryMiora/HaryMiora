@@ -2,18 +2,18 @@
 <h1 align="center">Salut, moi c'est Miora 👋</h1>
 
 <p align="center">
-  🎯 Développeuse web fullstack passionnée <br/>
+  Développeuse web fullstack passionnée <br/>
 </p>
 
 ---
 
-### 💡 À propos de moi
+### À propos de moi
 
  J'apprends constamment des frameworks modernes et les bonnes pratiques
 
 ---
 
-### 🛠️ Stack principale
+### Stack principale
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
