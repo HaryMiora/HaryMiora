@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  Merci de visiter mon profil ❤️  
+  Merci de visiter mon profil ❤  
 </p>
