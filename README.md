@@ -1,19 +1,22 @@
-<!-- Profil GitHub README pour Miora -->
-<h1 align="center">Salut, moi c'est Miora 👋</h1>
+<!-- GitHub Profile README for Miora -->
+<h1 align="center">Hey there! I'm Miora 👋</h1>
 
 <p align="center">
-  Développeuse web fullstack passionnée <br/>
+  Fullstack web developer who loves to learn and build cool stuff 
 </p>
 
 ---
 
-### À propos de moi
+### A little bit about me
 
- J'apprends constamment des frameworks modernes et les bonnes pratiques
+I'm a curious and passionate developer who enjoys exploring new tools, frameworks, and ideas.  
+I like creating clean, user-friendly web apps — and I’m always trying to improve and learn more every day.
 
 ---
 
-### Stack principale
+### Tech I work with
+
+These are some of the tools and technologies I use often:
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -25,6 +28,13 @@
 
 ---
 
+### Let’s connect
+
+If you want to say hi or talk about a project, feel free to reach out!  
+  Email: [raoeliarijaonamiora@gmail.com](mailto:raoeliarijaonamiora@gmail.com)
+
+---
+
 <p align="center">
-  Merci de visiter mon profil ❤  
+  Thanks for stopping by ❤ 
 </p>
