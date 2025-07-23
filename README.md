@@ -31,7 +31,7 @@ These are some of the tools and technologies I use often:
 
 ### Let’s connect
 
-If you want to say hi or talk about a project, feel free to reach out!  
+If you want to talk about a project, feel free to reach out!  
   [raoeliarijaonamiora@gmail.com](mailto:raoeliarijaonamiora@gmail.com)
 
 ---
