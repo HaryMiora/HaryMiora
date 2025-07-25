@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Miora 👋</h1>
 
 <p align="center">
-  Fullstack web developer who loves to learn and build cool stuff 
+  Fullstack web developer
 </p>
 
 ---
